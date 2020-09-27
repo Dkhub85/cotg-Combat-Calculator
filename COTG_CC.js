@@ -7,8 +7,8 @@
 // @match https://*.crownofthegods.com
 // @include https://*.crownofthegods.com/?s=*
 // @grant none
-// @updateURL https://raw.githubusercontent.com/DKhub85/COTG-Combat-Calculator/master/COTG_CC.js
-// @downloadURL https://raw.githubusercontent.com/DKhub85/COTG-Combat-Calculator/master/COTG_CC.js
+// @updateURL https://raw.githubusercontent.com/DKhub85/Cotg-Combat-Calculator/master/COTG_CC.js
+// @downloadURL https://raw.githubusercontent.com/DKhub85/Cotg-Combat-Calculator/master/COTG_CC.js
 // ==/UserScript==
 
 (function() {
