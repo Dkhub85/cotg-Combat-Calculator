@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Cotg Combat Calculator
-// @namespace https://github.com/Dkhub85/COTG-Combat-Calculator
+// @namespace https://github.com/Dkhub85/Cotg-Combat-Calculator
 // @version 1.0.0
 // @description Cotg Combat Calculator
 // @author Dhruv
